@@ -5,7 +5,7 @@ import {
   HomeIcon,
   DocumentDuplicateIcon,
 } from '@heroicons/react/24/outline';
-import Link from 'next/Link';
+import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
 // Map of links to display in the side navigation.
